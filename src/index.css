@@ -11,9 +11,20 @@ video {
     height: auto;
 }
 
+.registry {
+    padding-top: 20px;
+}
+
+.down {
+    display: block;
+    text-align: center;
+    font-size: large;
+}
+
+
 .title {
     text-align: center;
-    padding-top: 50px;
+    padding-top: 25px;
 }
 
 .link {
