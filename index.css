@@ -5,8 +5,9 @@
 
 section {
     padding-top: 50px;
-    display: block;
-    margin-left: 370px;
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
     width: 100%;
     height: auto;
 }
